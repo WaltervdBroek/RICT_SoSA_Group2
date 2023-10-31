@@ -31,9 +31,13 @@ In a new window, the running environment will open with the skeleton of the mode
 In the Toolbox, you can select from some options: 
 
 Pointer 
+
 Impact Levels: Immediate, Enabling and Systematic 
+
 Concerns: EnvironmentalConcern, SocialConcern, TechnicalConcern, EconConcern  
+
 Connectors: ConncectorConcern (connects concerns with each other, ConnectorSoftware (connects Software with concerns) 
+
 Software: The piece of software/ program we are analyzing 
 
  
