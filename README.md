@@ -43,7 +43,7 @@ Software: The piece of software/ program we are analyzing
  
 Now, you can start building your own Sosa Model: 
 
-First, place the Immediate level as the inner circle, followed by enabling as the middle circle and lastly, systematic as the outer circle.
+First, place Systematic as the outer circle., followed by Enabling as the middle circle and lastly, Immediate level as the inner circle
 
 Place concerns within the relevant impact levels.  
 
